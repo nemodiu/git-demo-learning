@@ -3,3 +3,4 @@
 add:today is friday.
 add:tomorry is saturday.
 add:yestday is thursday
+Add:local data
